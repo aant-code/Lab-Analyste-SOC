@@ -1,5 +1,5 @@
 <link rel="stylesheet" href="style.css">
-<img src="../Livrables/img/Logo-blogpost.png" alt="Logo Wazuh" style="width:400px">
+<img src="captures/Logo-blogpost.png" alt="Logo Wazuh" style="width:400px">
 
 # Projet Wazuh - Simulation d'Attaque et Détection
 
@@ -26,7 +26,7 @@ Les indicateurs de compromission (IoC) incluent des tentatives de connexion éch
 
 ## 2. Configuration du laboratoire
 
-<img src="../Livrables/img/schema-technique.png" alt="Architecture Technique">
+<img src="captures/schema-technique.png" alt="Architecture Technique">
 
 **Choix Initial : Docker et Virtualisation**
 

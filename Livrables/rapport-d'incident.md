@@ -53,5 +53,5 @@ Une attaque de type brute force SSH a été détectée et analysée via la plate
   - targetadmin (deuxième vague d'attaque)
 
 **Exemple de log:**
-<img src="../Livrables/captures/log-5760-failed.png" alt="Log d'authentification échouée">
-<img src="../Livrables/captures/log-5715-succeed.png" alt="Log d'authentification réussie">
+<img src="captures/log-5760-failed.png" alt="Log d'authentification échouée">
+<img src="captures/log-5715-succeed.png" alt="Log d'authentification réussie">
